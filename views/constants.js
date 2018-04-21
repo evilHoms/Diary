@@ -1,0 +1,9 @@
+export const TO_AUTH_FORM = "TO_AUTH_FORM";
+export const TO_MAIN_SCREEN = "TO_MAIN_SCREEN";
+export const SIGN_IN_ERROR = "SIGN_IN_ERROR";
+export const SIGN_UP_ERROR = "SIGN_UP_ERROR";
+export const DB_ERROR = "DB_ERROR";
+export const NEW_ACCOUNT = "NEW_ACCOUNT";
+export const CODE_IS_NEEDED = "CODE_IS_NEEDED";
+export const LOADING = "LOADING";
+export const LOADED = "LOADED";

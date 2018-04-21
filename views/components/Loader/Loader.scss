@@ -1,0 +1,22 @@
+.loader {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  border: 1px solid black;
+  margin: auto;
+  height: 15vh;
+  min-height: 50px;
+  max-height: 250px;
+  width: 30vw;
+  min-width: 150px;
+  max-width: 750px;
+
+  background-color: #fff;
+}

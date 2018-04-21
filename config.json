@@ -1,0 +1,23 @@
+{
+  "db": {
+    "type": "mongo",
+    "localUrl": "mongodb://127.0.0.1:27017/",
+    "url": "blank",
+    "user": "blank",
+    "pass": "blank",
+    "dbName": "diary",
+    "collections": {
+      "users": "users"
+    }
+  },
+  "routes": {
+    "root": "/",
+    "auth": "/auth",
+    "authResend": "/auth/resend"
+  },
+  "access": {
+    "master": {
+      "pass": "Garik1905"
+    }
+  }
+}
